@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager Checkpoint
 
 Un gestionnaire de tâches simple et intuitif pour organiser et gérer vos tâches quotidiennes.
 
